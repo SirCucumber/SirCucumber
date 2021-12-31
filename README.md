@@ -17,13 +17,6 @@
 
 ## **Goals** <img width="26px" src="https://cdn.discordapp.com/emojis/695037044040138813.png?size=96" />
 
-<font size="3" color="lime"> - [x] 👶 Junior QA Engineer</font>
-
-- [x] 👦 Incomplete task <== YOU ARE HERE
-- [ ] 🧑 Sub-task 1
-- [ ] 👨 Sub-task 2
-- [ ] 🧔 Sub-task 3
-
 ```diff
 + [x] 👶 Junior QA Engineer
 + [x] 👦 Middle QA Engineer <== YOU ARE HERE
