@@ -36,7 +36,7 @@
 <br />
 <br />
 
-[SirCucumber's GitHub stats](https://github-readme-stats.vercel.app/api?username=SirCucumber&count_private=true&show_icons=true&theme=chartreuse-dark)
+[![SirCucumber's GitHub stats](https://github-readme-stats.vercel.app/api?username=SirCucumber&count_private=true&show_icons=true&theme=chartreuse-dark)]
 
 [worksite]: https://delaweb.ru
 [twitter]: https://twitter.com/_SirCucumber
