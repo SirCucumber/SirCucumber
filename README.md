@@ -17,11 +17,11 @@
 
 ## **Goals** <img width="26px" src="https://cdn.discordapp.com/emojis/695037044040138813.png?size=96" />
 
-- [x] Completed task
-- [ ] Incomplete task
-  - [ ] Sub-task 1
-  - [x] Sub-task 2
-  - [ ] Sub-task 3
+- [x] 👶 Completed task
+- [x] 👦 Incomplete task <== YOU ARE HERE
+- [ ] 🧑 Sub-task 1
+- [ ] 👨 Sub-task 2
+- [ ] 🧔 Sub-task 3
 
 ```diff
 + [x] 👶 Junior QA Engineer
