@@ -2,6 +2,8 @@
 
 ## A random person on the Internet, Middle QA Engineer and the kindest vegetable in the Universe!
 
+![Twitter Follow](https://img.shields.io/twitter/follow/_SirCucumber?color=green&logo=Twitter&style=for-the-badge)
+
 - 🏢 I'm currently working at a [Delaweb][worksite]
 - 📖 I'm currently learning everything
 
@@ -21,7 +23,6 @@
 [<img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 <br />
-<br />
 
 ### Languages and Tools:
 
@@ -36,7 +37,7 @@
 <br />
 <br />
 
-[![SirCucumber's GitHub stats](https://github-readme-stats.vercel.app/api?username=SirCucumber&count_private=true&show_icons=true&theme=chartreuse-dark)]
+[![SirCucumber's GitHub stats](https://github-readme-stats.vercel.app/api?username=SirCucumber&show_icons=true&theme=chartreuse-dark)](https://github.com/SirCucumber)
 
 [worksite]: https://delaweb.ru
 [twitter]: https://twitter.com/_SirCucumber
