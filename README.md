@@ -9,7 +9,7 @@
 
 #
 
-## **About me** <img  align="left" width="32px" src="https://cdn.discordapp.com/emojis/695036932182376468.png?size=96" />
+## **About me** <img width="26px" src="https://cdn.discordapp.com/emojis/695036932182376468.png?size=96" />
 
 - 💻 I'm QA Engineer with more than 2 years of experience
 - 🏢 I'm currently working at a [Delaweb][worksite]
