@@ -17,13 +17,13 @@
 
 #
 
-## **Spotify Now Playing** <img align="left" width="32px" src="https://cdn.discordapp.com/emojis/695037044568752204.png?size=96" />
+## **Spotify Now Playing** <img width="26px" src="https://cdn.discordapp.com/emojis/695037044568752204.png?size=96" />
 
 [![Spotify](https://github-spotify.herokuapp.com/)](https://open.spotify.com/user/SirCucumber)
 
 #
 
-## **GOALS** <img align="left" width="32px" src="https://cdn.discordapp.com/emojis/695037044040138813.png?size=96" />
+## **GOALS** <img width="26px" src="https://cdn.discordapp.com/emojis/695037044040138813.png?size=96" />
 
 ```diff
 + [x] 👶 Junior QA Engineer
@@ -35,7 +35,7 @@
 
 #
 
-## **Languages and Tools** <img align="left" width="32px" src="https://cdn.discordapp.com/emojis/696709254274482207.png?size=96" />
+## **Languages and Tools** <img width="26px" src="https://cdn.discordapp.com/emojis/696709254274482207.png?size=96" />
 
 <img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -49,7 +49,7 @@
 
 #
 
-## **Connect with me** <img align="left" width="32px" src="https://cdn.discordapp.com/emojis/695037043956252673.png?size=96" />
+## **Connect with me** <img width="26px" src="https://cdn.discordapp.com/emojis/695037043956252673.png?size=96" />
 
 [<img align="left" alt="LinkedIn | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 <br>
@@ -60,7 +60,7 @@
 
 #
 
-## **Some stats** <img align="left" width="32px" src="https://cdn.discordapp.com/emojis/696709252277862513.png?size=96" />
+## **Some stats** <img width="26px" src="https://cdn.discordapp.com/emojis/696709252277862513.png?size=96" />
 
 [![SirCucumber's GitHub stats](https://github-readme-stats.vercel.app/api?username=SirCucumber&show_icons=true&theme=chartreuse-dark)](https://github.com/SirCucumber)
 
