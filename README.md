@@ -37,7 +37,7 @@
 <br />
 <br />
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SirCucumber&show_icons=true&hide_border=true" />
+<img align="left" alt="SirCucumber's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SirCucumber&show_icons=true&hide_border=true" />
 
 [worksite]: https://delaweb.ru
 [twitter]: https://twitter.com/_SirCucumber
