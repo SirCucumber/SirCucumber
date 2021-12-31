@@ -47,7 +47,7 @@
 
 ---
 
-## **Connect with me** <img width="26px" src="https://cdn.discordapp.com/emojis/695037043956252673.png?size=96" />
+## **Connect with me** <img width="26px" src="https://cdn.discordapp.com/emojis/700321938618318948.png?size=96" />
 
 [<img align="left" alt="LinkedIn | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="Telegram | Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />][telegram]
