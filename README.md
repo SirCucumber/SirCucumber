@@ -2,7 +2,8 @@
 
 ## A random person on the Internet, Middle QA Engineer and the kindest vegetable in the Universe!
 
-![Twitter Follow](https://img.shields.io/twitter/follow/_SirCucumber?color=green&logo=Twitter&style=for-the-badge)
+[![Twitter Follow](https://img.shields.io/twitter/follow/_SirCucumber?color=green&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSirCucumber&screen_name=_SirCucumber)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SirCucumber)
 
 - 🏢 I'm currently working at a [Delaweb][worksite]
 - 📖 I'm currently learning everything
