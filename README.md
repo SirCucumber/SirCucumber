@@ -1,17 +1,17 @@
 # Hi there, I'm Alexey aka SirCucumber <img width="26px" src="https://cdn.discordapp.com/emojis/755772772298260550.png?size=96" />
 
-###### <p align=""> _A random person on the Internet, Middle QA Engineer and the kindest vegetable in the Universe!_ </p>
+###### <p align=""> _A random person on the Internet, Senior QA Engineer and the kindest vegetable in the Universe!_ </p>
 
 ---
 
 ## **About me** <img width="26px" src="https://cdn.discordapp.com/emojis/695036932182376468.png?size=96" />
 
-- 💻 I'm QA Engineer with more than 2 years of experience
-- 🏢 I'm currently working at a [Delaweb][worksite]
+- 💻 I'm QA Engineer with more than 2+ years of experience
+- 🏢 I'm currently working at a [Vodohod][worksite]
 - 📖 I'm learning everything about testing
 
-[![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=_SirCucumber)
-[![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_sircucumber)
+<!-- [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=_SirCucumber) -->
+<!-- [![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_sircucumber) -->
 
 ---
 
@@ -19,8 +19,8 @@
 
 ```diff
 + [x] 👶 Junior QA Engineer
-+ [x] 👦 Middle QA Engineer <== YOU ARE HERE
-- [ ] 🧑 Senior QA Engineer
++ [x] 👦 Middle QA Engineer
+- [x] 🧑 Senior QA Engineer <== YOU ARE HERE
 - [ ] 👨 Lead QA Engineer
 - [ ] 🧔 Head of QA Department
 ```
@@ -32,6 +32,7 @@
 <img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Selenium" width="32px" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" />
+<img align="left" alt="Cypress.io" width="32px" src="https://avatars-05.gitter.im/group/iv/4/57542c6ec43b8c60197731dd.png" />
 <img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Git" width="32px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 <img align="left" alt="Postman" width="32px" src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" />
@@ -62,8 +63,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sircucumber&theme=matrix" alt="sircucumber" /></a> </p>
 
-[worksite]: https://delaweb.ru
-[twitter]: https://twitter.com/_SirCucumber
-[instagram]: https://instagram.com/_sircucumber
+[worksite]: https://vodohod.com/
+
+<!-- [twitter]: https://twitter.com/_SirCucumber -->
+<!-- [instagram]: https://instagram.com/_sircucumber -->
+
 [linkedin]: https://linkedin.com/in/SirCucumber
 [telegram]: https://t.me/SirCucumber
