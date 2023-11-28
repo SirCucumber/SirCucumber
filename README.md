@@ -6,7 +6,7 @@
 
 ## **About me** <img width="26px" src="https://cdn.discordapp.com/emojis/695036932182376468.png?size=96" />
 
-- 💻 I'm QA Engineer with more than 3+ years of experience
+- 💻 I'm QA Engineer with more than 4+ years of experience
 - 🏢 I'm currently working at a [BetBoom][worksite]
 - 📖 I'm learning everything about testing
 
