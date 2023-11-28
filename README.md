@@ -9,11 +9,6 @@
 - 💻 I'm QA Engineer with more than 4+ years of experience
 - 🏢 I'm currently working at a [BetBoom][worksite]
 - 📖 I'm learning everything about testing
-
-<!-- [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=_SirCucumber) -->
-
-[![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_sircucumber)
-
 ---
 
 ## **Goals** <img width="26px" src="https://cdn.discordapp.com/emojis/695037044040138813.png?size=96" />
@@ -52,6 +47,8 @@
 
 [<img align="left" alt="LinkedIn | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="Telegram | Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />][telegram]
+<!-- [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=_SirCucumber) -->
+[![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_sircucumber)
 <br>
 <br>
 
